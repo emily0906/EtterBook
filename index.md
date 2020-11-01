@@ -30,7 +30,7 @@ Should build and host a website instead of PDF
 ## Help other write
 - Encourages people to contribute in your documentation
 ## Publish frequency
-- Quick sanity check and a glance at build logs - building the finished product and ensure
+- Quick sanity check and a glance at build logs - building the finished product and ensure it 
 
 # Specific
 ## Lightweight markup
@@ -89,7 +89,7 @@ Should build and host a website instead of PDF
   - Metalsmith
   - MkDoc
   - Hexo
-- Make time to customer the theme
+- Make time to custome the theme
 - Github wiki - collection of Lightweight markup file, which help build the static website
 
 ## Rsync
